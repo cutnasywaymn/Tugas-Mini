@@ -64,6 +64,11 @@
 	 				<a href="home.php" onclick="return confirm('apakah ingin menghapus data?')" class="btn btn-danger">Hapus</a>
 	 			</td>
 	 		</tr>
+
+
+
+
  		</table>
+	<script type="text/javascript" src="js/bootstrap.min.js" ></script>
 </body>
 </html>
